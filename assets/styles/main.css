@@ -2319,6 +2319,7 @@ textarea {
   border-radius: 3px;
   font-weight: 700;
   padding: 6px 10px;
+  display: flex;
 }
 
 /**
